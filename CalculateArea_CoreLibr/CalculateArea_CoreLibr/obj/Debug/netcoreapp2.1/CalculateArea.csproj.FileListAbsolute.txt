@@ -1,0 +1,8 @@
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.deps.json
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.dll
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.pdb
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.csproj.CoreCompileInputs.cache
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfoInputs.cache
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfo.cs
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.dll
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.pdb
